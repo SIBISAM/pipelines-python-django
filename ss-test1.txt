@@ -1,1 +1,0 @@
-# sample file for testing the commit and branch for devops for azure from ms-fored branch
